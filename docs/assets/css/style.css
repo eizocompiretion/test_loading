@@ -4,6 +4,10 @@ html {
   background: #000
 }
 
+body{
+  display: flex;
+}
+
 h1,h2 {
   text-align: center;
   color: #FFF
