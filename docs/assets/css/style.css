@@ -6,10 +6,8 @@ html, body {
   background: #000
 }
 
-body {
-}
 
-.wrapper {
+.loader-bg .contens {
   width: 100%;
   height: 100vh;
   display: flex;
@@ -17,6 +15,6 @@ body {
   align-items: center;
 }
 
-#tivel {
+.loader {
   width: 500px;
 }
