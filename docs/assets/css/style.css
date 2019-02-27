@@ -4,8 +4,10 @@ html {
   background: #000
 }
 
-body{
+body {
   display: flex;
+  justify-content: center;
+  align-items: center;  
 }
 
 h1,h2 {
@@ -13,9 +15,8 @@ h1,h2 {
   color: #FFF
 }
 .wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  padding: 40px 0;
+  text-align: center;
 }
 #tivel {
   width: 300px;
